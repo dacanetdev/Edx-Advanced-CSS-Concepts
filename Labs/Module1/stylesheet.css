@@ -97,7 +97,10 @@ Layout Styles
 }
 
 @media (max-width: 47.9375em) {
-
+  .remove-gutter-xs {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
 }
 
 /***************************
